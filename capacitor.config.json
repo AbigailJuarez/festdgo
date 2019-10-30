@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.festdgo",
+  "appName": "festdgo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
